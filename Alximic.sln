@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alximic", "Alximic\Alximic.csproj", "{5761309A-9652-4A77-A3EF-3C864A68EEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5761309A-9652-4A77-A3EF-3C864A68EEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5761309A-9652-4A77-A3EF-3C864A68EEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5761309A-9652-4A77-A3EF-3C864A68EEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5761309A-9652-4A77-A3EF-3C864A68EEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE586120-2F13-4E7E-8173-356EEBED3D00}
+	EndGlobalSection
+EndGlobal
